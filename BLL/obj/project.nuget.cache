@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ijfrkW/7K57uvsfX8mOgSRcA9tS7D59IK9G29TKRJdcgikCtzSOCBpVIfETFwDCDlkdk2zt6HtTOp0pzUrgV4g==",
+  "dgSpecHash": "gAA55kfxp5pntQQ9J+jxS43tNOuzFPx8aQMI3oz5hdKRGUV9j4bObVH4BRFDM6l67SDE6Z1HnwiptQDHx3Xiqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\busra\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\busra\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

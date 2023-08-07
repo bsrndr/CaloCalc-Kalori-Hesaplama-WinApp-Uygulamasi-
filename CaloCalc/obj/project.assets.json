@@ -7037,11 +7037,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\CaloCalc\\CaloCalc.csproj",
+      "projectUniqueName": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\CaloCalc\\CaloCalc.csproj",
       "projectName": "CaloCalc",
-      "projectPath": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\CaloCalc\\CaloCalc.csproj",
+      "projectPath": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\CaloCalc\\CaloCalc.csproj",
       "packagesPath": "C:\\Users\\busra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\CaloCalc\\obj\\",
+      "outputPath": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\CaloCalc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\busra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7058,11 +7058,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\BLL\\BLL.csproj"
+            "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\BLL\\BLL.csproj"
             },
-            "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\Entities.csproj"
+            "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\Entities.csproj"
             }
           }
         }
@@ -7095,7 +7095,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

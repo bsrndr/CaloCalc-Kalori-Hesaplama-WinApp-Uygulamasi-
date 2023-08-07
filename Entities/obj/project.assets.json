@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\busra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\busra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

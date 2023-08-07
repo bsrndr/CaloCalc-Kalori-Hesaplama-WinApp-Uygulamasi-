@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D3Re4oMP5s0Lh0xW6jFm36z14jWySRI+cT8x+6eKHbFdicwd4pHPASrBs+9BsUP8oCRG5lIuVNZ6xUnibWHbRw==",
+  "dgSpecHash": "jpeLcTQ6W9cVJwgJehkTGTkZm9ac7R4+d7ljvp01DTscI/wNVBvoxvVXTPgj97vc+Xc5XhciAZd5yvFbS3hxhg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\busra\\OneDrive\\Belgeler\\GitHub\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\busra\\Source\\Repos\\CaloCalc-Kalori-Hesaplama-WinApp-Uygulamasi-\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\busra\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\busra\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
